@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+*,*::before,*::after {
+    box-sizing: border-box;
+}
+
+body {
+    padding-bottom: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(245, 63, 63);
+    margin-top: 30px;
+}
+
+.content {
+    margin-top: 70px;
+}
+
+h4 {
+    margin: 40px 20px;
+    color: rgb(245, 63, 63);
+}
+
+ul {
+    margin: 40px 50px;
+}
+
+p {
+    margin: 20px 50px;
+}
+
+h4:last-child {
+    margin-top: 70px;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(245, 63, 63);
+}
+
+.fee {
+    font-size: 22px;
+    text-align: center;
+}
+
+.fee h1 {
+    color: black;
+}
+
+span {
+    color: rgb(245, 63, 63);
+}
